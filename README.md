@@ -1,2 +1,4 @@
 # hello-world
 这是我的第一个 repository
+
+this is new journey to me。
